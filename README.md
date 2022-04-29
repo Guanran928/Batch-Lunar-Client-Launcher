@@ -1,9 +1,2 @@
 # Batch-Lunar-Client-Launcher
-Lunar Client Launcher Made With Batch FIle
-
-Only support 1.7 and 1.8 now.
-
-
-TODO: Fix unable to launch Offical Lunar Client Launcher
-
-TODO: More versions
+Lunar Client Launcher Made With Batch File
